@@ -10,11 +10,11 @@
 -  As with any connected device, smart meters [pose some security risk](https://www.information-age.com/smart-metres-vulnerable-cyber-attacks-123470837/) to users 
 -  smart meters are still considered a safe device and are relatively well-protected from attacks, but users and providers alike will need to stay on their toes to make sure they remain the only **ones collecting information**.
 
- ![[Pasted image 20220918160026.png]]
+ ![Pasted image 20220918160026.png](Pasted image 20220918160026.png)
 
 - AMI Main componenets for Data transmission
 
-![[Pasted image 20220918160246.png]]
+![Pasted image 20220918160246.png](Pasted image 20220918160246.png)
 
 
 - Electronic devices in smart meters are vulnerable to **invasive and non-invasive attacks**. These devices are in the untrusted field, and in physical proximity that can be used as the point of attack to bring the grid down.
@@ -38,7 +38,7 @@ Other common kinds of attacks are majorly used
 - These are the attack can able to compromise the network which connected to smart power meter and we can tamper into the network based on some set of methodology.
 
 
-![[Pasted image 20220918161754.png]]
+![Pasted image 20220918161754.png](Pasted image 20220918161754.png)
 
 
 
